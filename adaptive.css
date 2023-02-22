@@ -1,14 +1,14 @@
 @media screen and (max-width: 767px){
     body{
-        width: 700px;
+        width: 340px;
     }
 
     .container{
-        width: 700px;
+        width: 340px;
     }
 
     .nav{
-        width: 700px;
+        width: 340px;
         margin-right: 30px;
     }
 
@@ -17,7 +17,7 @@
     }
 
     .first-section{
-        width: 700px;
+        width: 340px;
         height: 600px;
     }
 
@@ -26,25 +26,25 @@
     }
 
     .home-description{
-        width: 700px;
+        width: 340px;
     }
 
     .img{
-        width: 700px;
+        width: 340px;
     }
 
     .second-section{
-        width: 700px;
+        width: 340px;
     }
 
     
     .third-section{
         height: 400px;
-        width: 700px;
+        width: 340px;
     }
 
     .stacks-container{
-        width: 700px;
+        width: 340px;
         justify-content: space-evenly;
         margin-right: 100px;
     }
@@ -54,12 +54,12 @@
     }
 
     .projects-cart{
-        width: 650px;
+        width: 340px;
         
       }
 
     .footer-links{
-        width: 700px;
+        width: 340px;
         justify-content: space-evenly;
         
     }
