@@ -1,1 +1,66 @@
+@media screen and (max-width: 767px){
+    body{
+        width: 700px;
+    }
 
+    .container{
+        width: 700px;
+    }
+
+    .nav{
+        width: 700px;
+        margin-right: 30px;
+    }
+
+    .hr-line{
+        width: 698px;
+    }
+
+    .first-section{
+        width: 700px;
+        height: 600px;
+    }
+
+    .title{
+        margin-left: 40px;
+    }
+
+    .home-description{
+        width: 700px;
+    }
+
+    .img{
+        width: 700px;
+    }
+
+    .second-section{
+        width: 700px;
+    }
+
+    
+    .third-section{
+        height: 400px;
+        width: 700px;
+    }
+
+    .stacks-container{
+        width: 700px;
+        justify-content: space-evenly;
+        margin-right: 100px;
+    }
+
+    .stack-icon{
+        width: 50px;
+    }
+
+    .projects-cart{
+        width: 650px;
+        
+      }
+
+    .footer-links{
+        width: 700px;
+        justify-content: space-evenly;
+        
+    }
+}
