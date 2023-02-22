@@ -8,8 +8,9 @@
     }
 
     .nav{
-        width: 700px;
-        margin-right: 60px;
+        width: 600px;
+        margin-right: 0px;
+        font-size: 14px;
     }
 
     .hr-line{
@@ -49,7 +50,7 @@
         margin-right: 50px; */
         width: 600px;
         justify-content: space-evenly;
-        margin-right: 75px;
+        /* margin-right: 75px; */
     }
 
     .skills-text{
@@ -75,4 +76,10 @@
         margin-right: 30px;
     }
 }
+
+
+
+
+
+
 
