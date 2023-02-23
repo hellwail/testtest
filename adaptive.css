@@ -53,17 +53,13 @@
         /* margin-right: 75px; */
     }
 
-    .skills-text{
-        margin-right: 30px;
-    }
-
     .stack-icon{
         width: 50px;
     }
 
     .projects-cart{
         width: 650px;
-        margin-right: 40px;
+        
       }
 
     .footer-links{
@@ -72,9 +68,7 @@
         margin-right: 60px;
     }
 
-    .about-h{
-        margin-right: 30px;
-    }
+    
 }
 
 
